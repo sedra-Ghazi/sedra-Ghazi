@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sedra-Ghazi
-- 👀 I’m interested in larning programming
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate to develop my self ...
 - 📫 How to reach me sedraghazi20@gmail.com...
